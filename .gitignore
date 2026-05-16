@@ -72,3 +72,18 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# ==========================================
+# Специфика macOS и IDE (Xcode, Rider, VS Code)
+# ==========================================
+.DS_Store
+*.xcodeproj/
+*.xcworkspace/
+.vscode/
+.idea/
+.vs/
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
